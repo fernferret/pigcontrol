@@ -1,0 +1,4 @@
+name: PigControl
+main: com.fernferret.pigcontrol.PigControl
+author: FernFerret
+version: 0.1
