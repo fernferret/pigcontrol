@@ -1,2 +1,1 @@
-LightLevel is a basic CraftBukkit server plugin to allow players
-access to the light level on any block in a Minecraft world.
+PigControl is a basic Bukkit server plugin that restricts Zombie Pigman spawning. Because they suck.
